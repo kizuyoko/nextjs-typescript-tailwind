@@ -1,4 +1,4 @@
-# See the published page: [https://nextjs-typescript-tailwind-rouge.vercel.app/] (https://nextjs-typescript-tailwind-rouge.vercel.app/)
+## See the published page: [https://nextjs-typescript-tailwind-rouge.vercel.app/] (https://nextjs-typescript-tailwind-rouge.vercel.app/)
 
 I followed Next.js official learning page, see my activity in Github. It contains the starting code for the dashboard application.
 
